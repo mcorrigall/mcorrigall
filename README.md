@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mcorrigall
+- 👋 Hi, I’m Malcolm 
 - 👀 I’m interested in ... libraries
-- 🌱 I’m currently learning ... python?
+- 🌱 I’m currently learning ... thinking about learning python but a bit intimidated
 - 💞️ I’m looking to collaborate on ... library stuff!
-- 📫 How to reach me ... on here  
+- 📫 How to reach me ... @mcorrigall.bsky.social
 - 😄 Pronouns: ... he/him
 
 
