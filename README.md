@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Malcolm 
-- 👀 I’m interested in ... libraries
-- 🌱 I’m currently learning ... thinking about learning python but a bit intimidated
-- 💞️ I’m looking to collaborate on ... library stuff!
-- 📫 How to reach me ... @mcorrigall.bsky.social
-- 😄 Pronouns: ... he/him
+- 👀 I’m interested in ... libraries and books
+- 🌱 I’m currently learning ... html, css and javascript
+
 
 
 <!---
