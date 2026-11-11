@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Malcolm 
-- 👀 I’m interested in ... libraries and books
-- 🌱 I’m currently learning ... html, css and javascript
+- 👀 I’m interested in ... libraries 
+- 
 
 
 
